@@ -1,6 +1,6 @@
 Given a string s that contains Brackets and letters, remove the minimum number of invalid brackets to make the input string valid.
 
-Return a list of unique strings that are valid with the minimum number of removals. You may return the answer in any order.
+Return the first generated list
 
 Example 1:
 
