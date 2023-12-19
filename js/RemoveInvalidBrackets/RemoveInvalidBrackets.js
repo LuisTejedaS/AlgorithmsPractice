@@ -2,7 +2,8 @@
 function perform(param) {
     let stack = []
     let paramLength = param.length;
-    let output = (' ' + param).slice(1);
+    // let output = (' ' + param).slice(1);
+    let output =  param.slice(0);
     let removedChars = 0;
 
     for (let index = 0; index < paramLength; index++) {
